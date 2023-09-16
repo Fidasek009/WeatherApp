@@ -1,290 +1,194 @@
 {
     "1000": {
-        "day": "Sunny",
-        "dayVideo": 113,
-        "night": "Clear",
-        "nightVideo": 113
+        "text": "Clear",
+        "video": 113
     },
     "1003": {
-        "day": "Partly cloudy",
-        "dayVideo": 116,
-        "night": "Partly cloudy",
-        "nightVideo": 116
+        "text": "Partly cloudy",
+        "video": 116
     },
     "1006": {
-        "day": "Cloudy",
-        "dayVideo": 119,
-        "night": "Cloudy",
-        "nightVideo": 119
+        "text": "Cloudy",
+        "video": 119
     },
     "1009": {
-        "day": "Overcast",
-        "dayVideo": 122,
-        "night": "Overcast",
-        "nightVideo": 122
+        "text": "Overcast",
+        "video": 122
     },
     "1030": {
-        "day": "Mist",
-        "dayVideo": 143,
-        "night": "Mist",
-        "nightVideo": 143
+        "text": "Mist",
+        "video": 143
     },
     "1063": {
-        "day": "Patchy rain possible",
-        "dayVideo": 176,
-        "night": "Patchy rain possible",
-        "nightVideo": 176
+        "text": "Patchy rain possible",
+        "video": 176
     },
     "1066": {
-        "day": "Patchy snow possible",
-        "dayVideo": 179,
-        "night": "Patchy snow possible",
-        "nightVideo": 179
+        "text": "Patchy snow possible",
+        "video": 179
     },
     "1069": {
-        "day": "Patchy sleet possible",
-        "dayVideo": 182,
-        "night": "Patchy sleet possible",
-        "nightVideo": 182
+        "text": "Patchy sleet possible",
+        "video": 182
     },
     "1072": {
-        "day": "Patchy freezing drizzle possible",
-        "dayVideo": 185,
-        "night": "Patchy freezing drizzle possible",
-        "nightVideo": 185
+        "text": "Patchy freezing drizzle possible",
+        "video": 185
     },
     "1087": {
-        "day": "Thundery outbreaks possible",
-        "dayVideo": 200,
-        "night": "Thundery outbreaks possible",
-        "nightVideo": 200
+        "text": "Thundery outbreaks possible",
+        "video": 200
     },
     "1114": {
-        "day": "Blowing snow",
-        "dayVideo": 227,
-        "night": "Blowing snow",
-        "nightVideo": 227
+        "text": "Blowing snow",
+        "video": 227
     },
     "1117": {
-        "day": "Blizzard",
-        "dayVideo": 230,
-        "night": "Blizzard",
-        "nightVideo": 230
+        "text": "Blizzard",
+        "video": 230
     },
     "1135": {
-        "day": "Fog",
-        "dayVideo": 248,
-        "night": "Fog",
-        "nightVideo": 248
+        "text": "Fog",
+        "video": 248
     },
     "1147": {
-        "day": "Freezing fog",
-        "dayVideo": 260,
-        "night": "Freezing fog",
-        "nightVideo": 260
+        "text": "Freezing fog",
+        "video": 260
     },
     "1150": {
-        "day": "Patchy light drizzle",
-        "dayVideo": 263,
-        "night": "Patchy light drizzle",
-        "nightVideo": 263
+        "text": "Patchy light drizzle",
+        "video": 263
     },
     "1153": {
-        "day": "Light drizzle",
-        "dayVideo": 266,
-        "night": "Light drizzle",
-        "nightVideo": 266
+        "text": "Light drizzle",
+        "video": 266
     },
     "1168": {
-        "day": "Freezing drizzle",
-        "dayVideo": 281,
-        "night": "Freezing drizzle",
-        "nightVideo": 281
+        "text": "Freezing drizzle",
+        "video": 281
     },
     "1171": {
-        "day": "Heavy freezing drizzle",
-        "dayVideo": 284,
-        "night": "Heavy freezing drizzle",
-        "nightVideo": 284
+        "text": "Heavy freezing drizzle",
+        "video": 284
     },
     "1180": {
-        "day": "Patchy light rain",
-        "dayVideo": 293,
-        "night": "Patchy light rain",
-        "nightVideo": 293
+        "text": "Patchy light rain",
+        "video": 293
     },
     "1183": {
-        "day": "Light rain",
-        "dayVideo": 296,
-        "night": "Light rain",
-        "nightVideo": 296
+        "text": "Light rain",
+        "video": 296
     },
     "1186": {
-        "day": "Moderate rain at times",
-        "dayVideo": 299,
-        "night": "Moderate rain at times",
-        "nightVideo": 299
+        "text": "Moderate rain at times",
+        "video": 299
     },
     "1189": {
-        "day": "Moderate rain",
-        "dayVideo": 302,
-        "night": "Moderate rain",
-        "nightVideo": 302
+        "text": "Moderate rain",
+        "video": 302
     },
     "1192": {
-        "day": "Heavy rain at times",
-        "dayVideo": 305,
-        "night": "Heavy rain at times",
-        "nightVideo": 305
+        "text": "Heavy rain at times",
+        "video": 305
     },
     "1195": {
-        "day": "Heavy rain",
-        "dayVideo": 308,
-        "night": "Heavy rain",
-        "nightVideo": 308
+        "text": "Heavy rain",
+        "video": 308
     },
     "1198": {
-        "day": "Light freezing rain",
-        "dayVideo": 311,
-        "night": "Light freezing rain",
-        "nightVideo": 311
+        "text": "Light freezing rain",
+        "video": 311
     },
     "1201": {
-        "day": "Moderate or heavy freezing rain",
-        "dayVideo": 314,
-        "night": "Moderate or heavy freezing rain",
-        "nightVideo": 314
+        "text": "Moderate or heavy freezing rain",
+        "video": 314
     },
     "1204": {
-        "day": "Light sleet",
-        "dayVideo": 317,
-        "night": "Light sleet",
-        "nightVideo": 317
+        "text": "Light sleet",
+        "video": 317
     },
     "1207": {
-        "day": "Moderate or heavy sleet",
-        "dayVideo": 320,
-        "night": "Moderate or heavy sleet",
-        "nightVideo": 320
+        "text": "Moderate or heavy sleet",
+        "video": 320
     },
     "1210": {
-        "day": "Patchy light snow",
-        "dayVideo": 323,
-        "night": "Patchy light snow",
-        "nightVideo": 323
+        "text": "Patchy light snow",
+        "video": 323
     },
     "1213": {
-        "day": "Light snow",
-        "dayVideo": 326,
-        "night": "Light snow",
-        "nightVideo": 326
+        "text": "Light snow",
+        "video": 326
     },
     "1216": {
-        "day": "Patchy moderate snow",
-        "dayVideo": 329,
-        "night": "Patchy moderate snow",
-        "nightVideo": 329
+        "text": "Patchy moderate snow",
+        "video": 329
     },
     "1219": {
-        "day": "Moderate snow",
-        "dayVideo": 332,
-        "night": "Moderate snow",
-        "nightVideo": 332
+        "text": "Moderate snow",
+        "video": 332
     },
     "1222": {
-        "day": "Patchy heavy snow",
-        "dayVideo": 335,
-        "night": "Patchy heavy snow",
-        "nightVideo": 335
+        "text": "Patchy heavy snow",
+        "video": 335
     },
     "1225": {
-        "day": "Heavy snow",
-        "dayVideo": 338,
-        "night": "Heavy snow",
-        "nightVideo": 338
+        "text": "Heavy snow",
+        "video": 338
     },
     "1237": {
-        "day": "Ice pellets",
-        "dayVideo": 350,
-        "night": "Ice pellets",
-        "nightVideo": 350
+        "text": "Ice pellets",
+        "video": 350
     },
     "1240": {
-        "day": "Light rain shower",
-        "dayVideo": 353,
-        "night": "Light rain shower",
-        "nightVideo": 353
+        "text": "Light rain shower",
+        "video": 353
     },
     "1243": {
-        "day": "Moderate or heavy rain shower",
-        "dayVideo": 356,
-        "night": "Moderate or heavy rain shower",
-        "nightVideo": 356
+        "text": "Moderate or heavy rain shower",
+        "video": 356
     },
     "1246": {
-        "day": "Torrential rain shower",
-        "dayVideo": 359,
-        "night": "Torrential rain shower",
-        "nightVideo": 359
+        "text": "Torrential rain shower",
+        "video": 359
     },
     "1249": {
-        "day": "Light sleet showers",
-        "dayVideo": 362,
-        "night": "Light sleet showers",
-        "nightVideo": 362
+        "text": "Light sleet showers",
+        "video": 362
     },
     "1252": {
-        "day": "Moderate or heavy sleet showers",
-        "dayVideo": 365,
-        "night": "Moderate or heavy sleet showers",
-        "nightVideo": 365
+        "text": "Moderate or heavy sleet showers",
+        "video": 365
     },
     "1255": {
-        "day": "Light snow showers",
-        "dayVideo": 368,
-        "night": "Light snow showers",
-        "nightVideo": 368
+        "text": "Light snow showers",
+        "video": 368
     },
     "1258": {
-        "day": "Moderate or heavy snow showers",
-        "dayVideo": 371,
-        "night": "Moderate or heavy snow showers",
-        "nightVideo": 371
+        "text": "Moderate or heavy snow showers",
+        "video": 371
     },
     "1261": {
-        "day": "Light showers of ice pellets",
-        "dayVideo": 374,
-        "night": "Light showers of ice pellets",
-        "nightVideo": 374
+        "text": "Light showers of ice pellets",
+        "video": 374
     },
     "1264": {
-        "day": "Moderate or heavy showers of ice pellets",
-        "dayVideo": 377,
-        "night": "Moderate or heavy showers of ice pellets",
-        "nightVideo": 377
+        "text": "Moderate or heavy showers of ice pellets",
+        "video": 377
     },
     "1273": {
-        "day": "Patchy light rain with thunder",
-        "dayVideo": 386,
-        "night": "Patchy light rain with thunder",
-        "nightVideo": 386
+        "text": "Patchy light rain with thunder",
+        "video": 386
     },
     "1276": {
-        "day": "Moderate or heavy rain with thunder",
-        "dayVideo": 389,
-        "night": "Moderate or heavy rain with thunder",
-        "nightVideo": 389
+        "text": "Moderate or heavy rain with thunder",
+        "video": 389
     },
     "1279": {
-        "day": "Patchy light snow with thunder",
-        "dayVideo": 392,
-        "night": "Patchy light snow with thunder",
-        "nightVideo": 392
+        "text": "Patchy light snow with thunder",
+        "video": 392
     },
     "1282": {
-        "day": "Moderate or heavy snow with thunder",
-        "dayVideo": 395,
-        "night": "Moderate or heavy snow with thunder",
-        "nightVideo": 395
+        "text": "Moderate or heavy snow with thunder",
+        "video": 395
     }
 }

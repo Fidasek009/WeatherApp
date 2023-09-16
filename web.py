@@ -4,6 +4,7 @@ import requests
 from uvicorn import run
 from fastapi import FastAPI, Request
 from fastapi.staticfiles import StaticFiles
+from fastapi.responses import HTMLResponse
 
 
 HOST="5.182.17.134"
@@ -30,8 +31,9 @@ def weather(request: Request):
 
     # weather = request.get(f"https://api.weatherapi.com/v1/current.json?key=8da8951ed8694b8782c90333231609&q={location['latitude']},{location['longitude']}")
     weather = requests.get(f"https://api.weatherapi.com/v1/current.json?key=8da8951ed8694b8782c90333231609&aqi=no&q={client_host}")
+    condition = weather.json()['current']['condition']
 
-
+    return HTMLResponse(f"<body><h1><img src=\"https:{condition['icon']}\" />{condition['text']}</h1><p>{weather.json()}</p></body>")
 
     return weather.json()
 
