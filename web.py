@@ -15,11 +15,8 @@ app.mount("/static", StaticFiles(directory=f"{WEBDIR}/static"), name="static")
 
 @app.get("/")
 def weather(request: Request):
-    user_ip = request.headers.get('CF-Connecting-IP')
-    city = request.headers.get('CF-IPCity')
-    country = request.headers.get('CF-IPCountry')
-    print(user_ip, '\n', city, '\n', country)
-    return {"Error 418: I'm a teapot"}
+    client_host = request.client.host
+    return {"client_host": client_host}
 
 
 
