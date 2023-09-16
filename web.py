@@ -12,6 +12,7 @@ WEBDIR = "{0}/html".format(path.dirname(__file__))
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory=f"{WEBDIR}/static"), name="static")
+app.mount("/video", StaticFiles(directory=f"{WEBDIR}/video"), name="video")
 
 
 url = "https://tools.keycdn.com/geo.json?host="
@@ -30,7 +31,7 @@ def weather(request: Request):
     # weather = request.get(f"https://api.weatherapi.com/v1/current.json?key=8da8951ed8694b8782c90333231609&q={location['latitude']},{location['longitude']}")
     weather = requests.get(f"https://api.weatherapi.com/v1/current.json?key=8da8951ed8694b8782c90333231609&aqi=no&q={client_host}")
 
-    
+
 
     return weather.json()
 
